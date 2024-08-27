@@ -36,7 +36,7 @@ I am a Full Stack Developer | Flutter Developer <img src="https://media.giphy.co
 
 - :zap: In my free time, I check out documentations of emerging tech-stacks and contribute to open-source.
 
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:joyprakashk28@gmail.com)
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyprakashk28@gmail.com)
 
 
 ---
