@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer | Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer | Blockchain X Gen AI Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a B.Tech undergrad in Electronics & Computer Engineering.
 
 - :seedling: Currently exploring AI/ML, Web3 and DevOps.
