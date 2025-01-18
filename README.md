@@ -30,9 +30,9 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer | Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a B.Tech undergrad, specializing in CSE.
+- :telescope: I’m a B.Tech undergrad in Electronics & Computer Engineering.
 
-- :seedling: Currently exploring AI/ML and DevOps.
+- :seedling: Currently exploring AI/ML, Web3 and DevOps.
 
 - :zap: In my free time, I check out documentations of emerging tech-stacks and contribute to open-source.
 
